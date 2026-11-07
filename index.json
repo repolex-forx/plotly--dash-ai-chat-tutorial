@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "dash-ai-chat-tutorial",
+  "versions": [
+    {
+      "commit": "9dea428e9de7102c92fdbdf027927ce86ee126a2",
+      "tag": "",
+      "parsed_at": "2026-11-07T08:02:36.570032+00:00"
+    }
+  ]
+}

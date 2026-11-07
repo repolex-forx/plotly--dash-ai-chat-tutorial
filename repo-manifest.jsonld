@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/plotly/dash-ai-chat-tutorial/commit/9dea428e9de7102c92fdbdf027927ce86ee126a2",
       "git:hexsha": "9dea428e9de7102c92fdbdf027927ce86ee126a2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

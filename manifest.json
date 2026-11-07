@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "plotly",
+  "repo": "dash-ai-chat-tutorial",
+  "versions": [
+    {
+      "commit": "9dea428e9de7102c92fdbdf027927ce86ee126a2",
+      "parsed_at": "2026-11-07T08:00:18.689835+00:00",
+      "filetree": "filetree/9dea428e9de7102c92fdbdf027927ce86ee126a2.nq.gz",
+      "blobs": [
+        "blob/392fdbcbde2a40400c9375bbbc4a8597b46f9620.nq.gz",
+        "blob/b15e2344986c44f8a6b75da3d34b8124e6950798.nq.gz",
+        "blob/385a1a7f972e7e52e8c58060e4f06c38a8d88cf4.nq.gz",
+        "blob/1a43202e28b143d60fce2b4585e2aaa3a32beb61.nq.gz",
+        "blob/c02cd61c1dd4e981f8291fe8e766d3752e2c830a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
